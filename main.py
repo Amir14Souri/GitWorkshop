@@ -1,6 +1,6 @@
 def magic_func(numbers):
-    weight = 0.9
-    res = 0
+    weight = 0.8
+    res = 10
     for n in numbers:
         res *= weight
         res += (1 - weight) * n
