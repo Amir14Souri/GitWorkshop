@@ -7,4 +7,4 @@ def prime(n):
     return False
 
 print(is_prime(17))  # True
-print(is_prime(20))  # False
+print(is_prime(10))  # False
