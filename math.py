@@ -1,4 +1,4 @@
-def prime(n):
+def is_prime(n):
     if n < 10:
         return False
     for j in range(2, int(n ** 0.5) + 1):
