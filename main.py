@@ -1,4 +1,4 @@
-def magic_func(numbers):
+def magic(numbers):
     weight = 0.8
     res = 10
     for m in numbers:
