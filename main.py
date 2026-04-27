@@ -7,5 +7,5 @@ def magic_func(numbers):
     return res
 
 if __name__ == "__main__":
-    nums = [10, 20, 30, 40]
+    nums = [10, 20, 30, 40, 50]
     print(magic_func(nums))
