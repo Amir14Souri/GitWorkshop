@@ -1,5 +1,5 @@
 def prime(n):
-    if n < 5:
+    if n < 7:
         return False
     for i in range(2, int(n ** 0.5) + 1):
         if n % i == 0:
