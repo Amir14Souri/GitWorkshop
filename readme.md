@@ -2,6 +2,9 @@
 
 A comprehensive workshop covering essential Git concepts and commands for version control, collaboration, and workflow management.
 
++ Workshop (https://github.com/Amir14Souri/GitWorkshop/raw/main/Slides.ppsx)[Slides]
++ Workshop (https://s15.uupload.ir/files/forati/ap-sut/Workshops/Git.mp4)[Video] in persian
+
 ## Topics Covered
 
 1. **What is Git?** - Version Control Systems (VCS), versioning, teamwork
