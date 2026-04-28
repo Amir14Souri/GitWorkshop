@@ -1,0 +1,4 @@
+.env
+test/
+bbb/*.txt
+# This is a comment
