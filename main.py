@@ -1,6 +1,6 @@
 def magic(numbers):
     weight = 0.8
-    res = 10
+    res = 35
     for m in numbers:
         res *= weight
         res += (1 - weight) * n
