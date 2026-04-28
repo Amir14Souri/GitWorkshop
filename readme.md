@@ -2,8 +2,8 @@
 
 A comprehensive workshop covering essential Git concepts and commands for version control, collaboration, and workflow management.
 
-+ Workshop (https://github.com/Amir14Souri/GitWorkshop/raw/main/Slides.ppsx)[Slides]
-+ Workshop (https://s15.uupload.ir/files/forati/ap-sut/Workshops/Git.mp4)[Video] in persian
++ Workshop [Slides](https://github.com/Amir14Souri/GitWorkshop/raw/main/Slides.ppsx)
++ Workshop [Video](https://s15.uupload.ir/files/forati/ap-sut/Workshops/Git.mp4) in persian
 
 ## Topics Covered
 
